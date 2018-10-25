@@ -10,4 +10,4 @@ This is a utility to monitor mission critical user accounts and service accounts
 2. Check `config.ini` and fill in required (AD and SMTP details) and preferred (user attributes to monitor) settings
 3. Set the PowerShell script `Get-ADUsersStatus.ps1` to run at your preferred schedule
 #### Sample Html report
-![Alt text](/relative/path/to/img.jpg?raw=true "User Status Monitor")
+![Alt texts](/users_status_monitor/sample_report_screenshot.png?raw=true "Sample report screenshot")
